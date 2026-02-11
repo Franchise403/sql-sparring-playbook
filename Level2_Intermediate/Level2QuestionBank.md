@@ -8,7 +8,7 @@ Alias: SalesLT.Product AS P
 
 Return: ProductID, Name, ListPrice
 
-Task: Return products where p.ListPrice is between 100 and 500, sorted by p.ListPrice DESC.
+Task: Return products where ListPrice is between 100 and 500, sorted by ListPrice DESC.
 
 Clauses: SELECT, FROM, WHERE, BETWEEN, ORDER BY, Aliases
 
