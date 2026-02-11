@@ -1,4 +1,5 @@
 Level 1 — Fundamentals (AdventureWorksLT2022 / SalesLT)
+
 Round 01 — SELECT TOP
 
 Table: SalesLT.Customer
